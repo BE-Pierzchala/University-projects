@@ -1,1 +1,1 @@
-This is a small project on simulating planetary systems orbiting a central body
+This is a small project on simulating planetary systems orbiting around their centre of mass (CoM), currently the only option to automatically set up the system is a symmetric distribution around th CoM. The code is generic enough to allow for any configuration.
